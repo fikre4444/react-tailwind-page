@@ -6,6 +6,6 @@ This webpage uses react and tailwind css.
 
 In order to checkout what it looks like, clone this repository.
 
-type 'npm install'
+type **npm install**
 
-and then run 'npm run dev'
+and then run **npm run dev**
